@@ -38,7 +38,7 @@ OPENAI_API_KEY=your-openai-key-here
 
 ### 5. Run the chatbot
 ```bash
-streamlit run 2s.py
+streamlit run streamlit_frontend.py
 ```
 Then open the link in your browser (usually http://localhost:8501)
 
