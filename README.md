@@ -45,10 +45,9 @@ Then open the link in your browser (usually http://localhost:8501)
 
 ---
 
-## Coming Soon
-- Multi LLMs switch
-- Multimodal input
-- Support for uploading files/knowledge base (RAG)
-- Multi-user session handling
+## Explanation 
+- langgraph_backend.py -> Simple langraph agent
+- streamlit_frontend.py -> Simple streamlit frontend with streaming response
+- streamlit_frontend_threading.py -> added chat history feature in streamlit_frontend.py 
 
 
