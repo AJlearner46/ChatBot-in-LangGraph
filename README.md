@@ -10,6 +10,14 @@
 
 ---
 
+
+## Explanation 
+- langgraph_backend.py -> Simple langraph agent
+- streamlit_frontend.py -> Simple streamlit frontend with streaming response
+- streamlit_frontend_threading.py -> added chat history feature in streamlit_frontend.py 
+
+---
+
 ## 📦 Installation
 
 ### 1. Clone the repository
@@ -44,10 +52,4 @@ Then open the link in your browser (usually http://localhost:8501)
 
 
 ---
-
-## Explanation 
-- langgraph_backend.py -> Simple langraph agent
-- streamlit_frontend.py -> Simple streamlit frontend with streaming response
-- streamlit_frontend_threading.py -> added chat history feature in streamlit_frontend.py 
-
 
