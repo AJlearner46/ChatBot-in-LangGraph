@@ -2,7 +2,7 @@
 
 ---
 
-## 💻 Features
+## Features
 
 - Chat memory using LangGraph
 - Streamed AI responses with typing effect
@@ -11,14 +11,14 @@
 ---
 
 
-## Explanation 
+## Explanation for files
 - langgraph_backend.py -> Simple langraph agent
 - streamlit_frontend.py -> Simple streamlit frontend with streaming response
 - streamlit_frontend_threading.py -> added chat history feature in streamlit_frontend.py 
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the repository
 
